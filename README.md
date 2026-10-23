@@ -93,7 +93,7 @@ Pruebas automáticas: `flutter test`.
 
 ### Evidencia funcional
 ![Foto del equipo](screenshots/13-foto-equipo.jpeg)
-![Navegación login, dashboard, lista y formulario](screenshots/14-navegacion.mp4)
+<video src="screenshots/video/14-navegacion.mp4" controls width="100%"></video>
 
 ## 7. Estructura del proyecto y patrones de diseño
 
